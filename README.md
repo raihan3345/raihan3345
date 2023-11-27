@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Raihan! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
-<!--
-**raihan3345/raihan3345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Undergraduate Student who loves to code! I've enjoyed learning new things.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently studying at Telkom University majoring in telecommunications engineering
+- 🌱 I’m currently learning about machine learning and web development
+- 💬 Feel free to ask me!
+- 📫 How to reach me: raihanradhitya@gmail.com<br>
+<div align="center">
+<i>Happy Coding!</i> 😊
+</div>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<i>Follow me around the web:</i><br>
+
+<a href="https://www.linkedin.com/in/raihanradhitya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/raihan_radhitya" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+</div>
