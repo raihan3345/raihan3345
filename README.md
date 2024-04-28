@@ -5,7 +5,7 @@
 An Undergraduate Student who loves to code! I've enjoyed learning new things.
 
 - 🔭 I'm currently studying at Telkom University majoring in telecommunications engineering
-- 🌱 I’m currently learning about machine learning and web development
+- 🌱 I’m currently learning about machine learning
 - 💬 Feel free to ask me!
 - 📫 How to reach me: raihanradhitya@gmail.com<br>
 <div align="center">
